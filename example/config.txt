@@ -1,0 +1,2 @@
+Prefix plugins/CSVScreenTax/example
+Plugin CSVScreenTax inputfile parameters.txt outputfile test.nov.csv
